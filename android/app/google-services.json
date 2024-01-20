@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543724191093",
+    "project_id": "redcell-connect",
+    "storage_bucket": "redcell-connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543724191093:android:791a8182a18bf4176ea73c",
+        "android_client_info": {
+          "package_name": "com.example.redcell_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJHqt8o305ijom5WNh-MgL8G3pS_X1ysk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
