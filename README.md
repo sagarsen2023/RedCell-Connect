@@ -26,3 +26,7 @@ RedCell Connect offers blood banks and hospitals an easy-to-use platform with th
 
 ### Screenshots (Both Dark and Light Mode Screenshots)
 To view all the screenshots [please click here](https://photos.google.com/share/AF1QipNjLYmkiBJWyhDLioDELqLiu4OuLdjhgQlhxIwLUTO0dvYa2HG8B1QX1hp_0zgzRQ?key=RFJzZ3V4YmNucTdDUjdkMlVEckoxek5VT1I4UGVR).
+
+
+**Note:** In this project, if there are any spelling or grammar mistakes, please let me know. Your response will be appreciated.
+
