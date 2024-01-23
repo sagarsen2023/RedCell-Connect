@@ -130,7 +130,7 @@ class _BloodBankRegistrationState extends State<BloodBankRegistration> {
               passwordController: createPasswordController,
             ),
             RedcellPasswordField(
-              helpText: "Cirnfirm Password",
+              helpText: "Confirm Password",
               customHintText: "Password nust be 6 characters long",
               inputKeyboardType: TextInputType.name,
               customPreffixIcon: Icons.lock,

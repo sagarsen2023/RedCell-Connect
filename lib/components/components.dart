@@ -379,10 +379,11 @@ class ProfileDetails extends StatelessWidget {
             height: 2,
           ),
           isloading
-              ? const SizedBox(
-                  width: 15,
-                  height: 15,
-                  child: CircularProgressIndicator(
+              ?  Container(
+                  padding: const EdgeInsets.all(5) ,
+                  width: 25,
+                  height: 25,
+                  child: const CircularProgressIndicator(
                     color: Colors.grey,
                   ),
                 )

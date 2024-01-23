@@ -148,7 +148,7 @@ class _EditProfileDetailsState extends State<EditProfileDetails> {
                                 context: context,
                                 headertext: "Update Data",
                                 descriptionText:
-                                    "Did you entered the correct details?",
+                                    "Have you entered the correct details?",
                                 contiueFunction: () {
                                   editDetails();
                                   Navigator.pop(context);
