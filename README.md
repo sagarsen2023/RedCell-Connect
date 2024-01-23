@@ -30,7 +30,7 @@ RedCell Connect is a Flutter and Firebase-based platform that facilitates seamle
 To view all the screenshots [please click here](https://photos.google.com/share/AF1QipNjLYmkiBJWyhDLioDELqLiu4OuLdjhgQlhxIwLUTO0dvYa2HG8B1QX1hp_0zgzRQ?key=RFJzZ3V4YmNucTdDUjdkMlVEckoxek5VT1I4UGVR).
 
 
-**Feedback:**
+**Feedback:** 
 - I appreciate your invitation for feedback on grammar and spelling errors. Feel free to point them out!
 - If you encounter app lags or freezes under specific conditions, please create an issue for further investigation and resolution.
 
