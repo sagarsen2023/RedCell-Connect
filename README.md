@@ -22,7 +22,7 @@ RedCell Connect is a Flutter and Firebase-based platform that facilitates seamle
 
 ### Installation
 
-1. You can [Download the APK here](https://github.com/sagarsen2023/RedCell-Connect/blob/master/redcell_connect-arm64-v8a-release.apk)
+1. You can [Download the APK here](https://github.com/sagarsen2023/RedCell-Connect/tree/master/apk_files)
 2. Acknowledge any warnings due to the unsigned app.
 3. Start using RedCell Connect!
 
