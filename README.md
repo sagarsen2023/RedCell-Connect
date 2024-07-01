@@ -27,7 +27,7 @@ RedCell Connect is a Flutter and Firebase-based platform that facilitates seamle
 3. Start using RedCell Connect!
 
 ### Screenshots (Both Dark and Light Mode Screenshots)
-To view all the screenshots [please click here](https://photos.google.com/share/AF1QipNjLYmkiBJWyhDLioDELqLiu4OuLdjhgQlhxIwLUTO0dvYa2HG8B1QX1hp_0zgzRQ?key=RFJzZ3V4YmNucTdDUjdkMlVEckoxek5VT1I4UGVR).
+To view all the screenshots [please click here](/Screenshots).
 
 
 **Feedback:** 
