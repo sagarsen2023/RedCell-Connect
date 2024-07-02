@@ -26,9 +26,53 @@ RedCell Connect is a Flutter and Firebase-based platform that facilitates seamle
 2. Acknowledge any warnings due to the unsigned app.
 3. Start using RedCell Connect!
 
-### Screenshots (Both Dark and Light Mode Screenshots)
+## Screenshots (Both Dark and Light Mode Screenshots)
 To view all the screenshots [please click here](/screenshots).
+Authentication Page
+[](/screenshots/dark-auth.jpg)
+<div align="left">
+  <h3>Authentication Page</h3>
+  <img src="/screenshots/light-auth.jpg" width="200px"></img>
+  <img src="/screenshots/dark-auth.jpg" width="200px"></img>
+</div>
 
+<div align="left">
+  <h3>Signup Page</h3>
+  <img src="/screenshots/light-signup.jpg" width="200px"></img>
+  <img src="/screenshots/dark-signup.jpg" width="200px"></img>
+</div>
+
+<div align="left">
+  <h3>Login Page</h3>
+  <img src="/screenshots/light-login.jpg" width="200px"></img>
+  <img src="/screenshots/dark-login.jpg" width="200px"></img>
+</div>
+
+<div align="left">
+  <h3>Update Details Page</h3>
+  <img src="/screenshots/light-updatedetails.jpg" width="200px"></img>
+  <img src="/screenshots/light-update-confirmation.jpg" width="200px"></img>
+  <img src="/screenshots/dark-updatedetails.jpg" width="200px"></img>
+</div>
+
+<div align="left">
+  <h3>For Hospitals</h3>
+  <img src="/screenshots/light-hospital-homepage.jpg" width="200px"></img>
+  <img src="/screenshots/dark-hospital-homepage-search-1.jpg" width="200px"></img>
+  <img src="/screenshots/light-hospital-homepage-search-1.jpg" width="200px"></img>
+  <img src="/screenshots/light-hospital-homepage-search-2.jpg" width="200px"></img>
+  <img src="/screenshots/light-bloodbank-search.jpg" width="200px"></img>
+  <img src="/screenshots/dark-bloodbank-search.jpg" width="200px"></img>
+</div>
+
+<div align="left">
+  <h3>For Blood Banks</h3>
+  <img src="/screenshots/light-bloodbank-inventory.jpg" width="200px"></img>
+  <img src="/screenshots/dark-bloodbank-inventory.jpg" width="200px"></img>
+  <img src="/screenshots/light-bloodbank-inventory-update.jpg" width="200px"></img>
+  <img src="/screenshots/dark-bloodbank-inventory-update.jpg" width="200px"></img>
+  <img src="/screenshots/dark-bloodbank-search.jpg" width="200px"></img>
+</div>
 
 **Feedback:** 
 - I appreciate your invitation for feedback on grammar and spelling errors. Feel free to point them out!
